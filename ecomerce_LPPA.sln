@@ -16,7 +16,7 @@ EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UI(2)", "UI\", "{5AA460E4-0B64-4311-920C-FC6BA9D90D33}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
-		ProjectReferences = "{6ee43480-9c7f-4256-a41f-bebece596890}|BLL.dll;"
+		ProjectReferences = "{6ee43480-9c7f-4256-a41f-bebece596890}|BLL.dll;{6715FA21-1D0D-4BD3-AA5E-9482903CA53B}|BE.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_50307"
 		Debug.AspNetCompiler.PhysicalPath = "UI\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50307\"

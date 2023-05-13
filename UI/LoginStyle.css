@@ -1,0 +1,122 @@
+﻿form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*margin-top: 100px;*/
+    background-color: rgb(72, 67, 67);
+    box-shadow: rgb(0, 0, 0) 0px 0px 20px;
+    border-radius: 15px;
+    width: fit-content;
+    height: fit-content;
+    padding: 30px;
+    z-index: 1;
+}
+.imgIconoForm {
+    width: 120px;
+    /* height: 100px; */
+    margin-bottom: 20px;
+    position: absolute;
+    top: -85px;
+    left: -55px;
+    animation: animate 1.5s infinite ease alternate;
+}
+
+h2 {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+    color: #ffffff;
+    font-family: CenturyGothic, AppleGothic, sans-serif;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+    font-size: 16px;
+    text-align: center;
+}
+input[type="password"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+input:hover {
+    border: 1px solid #4caf50;
+    transform: scale(1.05);
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+.sec1 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url("hambuguesasFondo.jpg"); */
+    /* background-size: cover; */
+    z-index: 0;
+}
+
+.imgFondo {
+    position: absolute;
+    filter: blur(4px);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    font-size: 24px;
+    font-family: CenturyGothic, AppleGothic, sans-serif;
+}
+
+input[type="submit" i] {
+    margin-top: 20px;
+    padding: 10px;
+    width: 250px;
+    font-size: 16px;
+    text-align: center;
+    background-color: #4caf50;
+    color: white;
+    font-weight: bold;
+    font-family: CenturyGothic, AppleGothic, sans-serif;
+    cursor: pointer;
+    /*transition: 0.3s;*/
+}
+
+    input[type="submit" i]:hover {
+        background-color: #4caf50;
+        /*transform: scale(1.05);*/
+        box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+    }
+
+@keyframes animate {
+    to {
+        transform: translateY(15px);
+    }
+}

@@ -7,3 +7,12 @@ C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug
 C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.dll
 C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BLL.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BLL.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BE.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BE.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.pdb
