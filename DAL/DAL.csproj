@@ -43,8 +43,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Acceso.cs" />
-    <Compile Include="DAL_Cliente.cs" />
+    <Compile Include="DAL_Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{6715fa21-1d0d-4bd3-aa5e-9482903ca53b}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SERVICIOS\SERVICIOS.csproj">
+      <Project>{3fc99792-7655-465e-9234-d715822b86ac}</Project>
+      <Name>SERVICIOS</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

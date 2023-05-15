@@ -73,7 +73,7 @@ namespace DAL
 
             if (ConectarBD.State == ConnectionState.Closed)
             {
-                ConectarBD.ConnectionString = ConfigurationManager.ConnectionStrings["CadenaConexionSQL"].ToString();
+                ConectarBD.ConnectionString = ConfigurationManager.ConnectionStrings["ConexionDB"].ToString();
                 ConectarBD.Open();
             }
             try

@@ -1,0 +1,13 @@
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\DAL.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\DAL.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\BE.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\SERVICIOS.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\Abstraccion.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\BE.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\SERVICIOS.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\bin\Debug\Abstraccion.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\obj\Debug\DAL.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\DAL\obj\Debug\DAL.pdb
