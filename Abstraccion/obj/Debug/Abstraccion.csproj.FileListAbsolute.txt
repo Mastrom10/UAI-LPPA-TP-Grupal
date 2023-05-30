@@ -1,0 +1,6 @@
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\Abstraccion\bin\Debug\Abstraccion.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\Abstraccion\obj\Debug\Abstraccion.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\Abstraccion\obj\Debug\Abstraccion.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\Abstraccion\obj\Debug\Abstraccion.pdb

@@ -1,0 +1,21 @@
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BE\bin\Debug\BE.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BE\bin\Debug\BE.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BE\obj\Debug\BE.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BE\obj\Debug\BE.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BE\bin\Debug\BE.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BE\bin\Debug\BE.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\bin\Debug\BE.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\bin\Debug\BE.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\bin\Debug\Abstraccion.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\bin\Debug\Abstraccion.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BE\obj\Debug\BE.pdb
