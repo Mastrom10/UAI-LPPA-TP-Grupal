@@ -1,0 +1,33 @@
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\bin\Debug\BLL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\bin\Debug\BLL.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\bin\Debug\BE.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\bin\Debug\BE.pdb
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.dll
+C:\Users\bruno\Desktop\UAI\4to Año\2. LPPA\Proyecto\ecomerce_LPPA\BLL\obj\Debug\BLL.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BLL.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BLL.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BE.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BE.pdb
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.dll
+C:\Users\crist\Documents\Github\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BLL.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BLL.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BE.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\DAL.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\SERVICIOS.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\Abstraccion.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\BE.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\DAL.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\SERVICIOS.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\bin\Debug\Abstraccion.pdb
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.dll
+C:\Users\bruno\Documents\GitHub\UAI-LPPA-TP-Grupal\BLL\obj\Debug\BLL.pdb
